@@ -41,9 +41,6 @@ Quantum-Cryptography/
 │   ├── idiomas.py          frecuencias y χ² en cinco idiomas
 │   ├── datos_*.json        resultados que generan los dos programas
 │   └── fig_*.png           gráficas de los resultados
-├── documentos/
-│   ├── teoria_criptografia_cuantica.pdf   la teoría explicada desde cero (y su .tex)
-│   └── guion_plenaria.pdf                 guion por diapositiva (y su .tex)
 ├── BIBLIOGRAFIA.md            42 referencias con enlaces
 └── descargar_bibliografia.py  descarga los PDF de libre acceso
 ```
