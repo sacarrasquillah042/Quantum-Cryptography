@@ -38,9 +38,6 @@ Quantum-Cryptography/
 │   └── e91-bell.html       pares entrelazados y desigualdad CHSH
 ├── simulaciones/
 │   ├── simulaciones.py     frecuencias, Monte Carlo de BB84, tasa de clave
-│   ├── idiomas.py          frecuencias y χ² en cinco idiomas
-│   ├── datos_*.json        resultados que generan los dos programas
-│   └── fig_*.png           gráficas de los resultados
 ├── BIBLIOGRAFIA.md            42 referencias con enlaces
 └── descargar_bibliografia.py  descarga los PDF de libre acceso
 ```
