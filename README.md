@@ -20,7 +20,7 @@ Aquí está todo el material: la presentación, las figuras interactivas como he
 | BB84 con una espía | [bb84-espia.html](https://sacarrasquillah042.github.io/Quantum-Cryptography/herramientas/bb84-espia.html) |
 | E91 y la prueba de Bell | [e91-bell.html](https://sacarrasquillah042.github.io/Quantum-Cryptography/herramientas/e91-bell.html) |
 
-También se pueden descargar y abrir con doble clic: cada HTML es un solo archivo que funciona sin internet.
+Se deben descargar: cada HTML es un solo archivo que funciona sin internet.
 
 ---
 
